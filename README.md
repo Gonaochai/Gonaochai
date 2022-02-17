@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gonaochai
+- 👋 Hi, I’m JING JING @Gonaochai
 - 👀 I’m interested in all new things
 - 🌱 I’m currently learning CS50 
 - 💞️ I’m looking to collaborate on a educational software project
